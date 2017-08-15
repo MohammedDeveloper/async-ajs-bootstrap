@@ -1,0 +1,19 @@
+{
+  "name": "async-ajs-bootstrap",
+  "version": "1.0.0",
+  "description": "Asynchronously bootstrapping the application using AngularJS ",
+  "main": "index.html",
+  "scripts": {
+     "lite": "lite-server --port 7868",
+     "start": "npm run lite"
+   },
+  "keywords": [
+    "ASYNC",
+    "AJS"
+  ],
+  "author": "Mohammed Rafi Kaleem",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
